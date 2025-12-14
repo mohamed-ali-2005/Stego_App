@@ -1,0 +1,7 @@
+Pillow
+numpy
+opencv-python
+cryptography
+pyaudio
+scipy
+moviepy
